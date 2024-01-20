@@ -1,0 +1,6 @@
+TODOS
+wapp
+sound
+input 
+lang
+ls
