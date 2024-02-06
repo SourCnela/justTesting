@@ -2,6 +2,7 @@
 picar code
 
 SAGUS200124
+
 TODOS
 wapp
 sound
@@ -10,6 +11,8 @@ lang
 ls
 
 posibliliad de empezar el hnr con UE y el libro de la tesis
+
+
 / SAGUS05022024
 se pone en stand by el libro de la tesis de UE
 se inicia Horses so on del PRE
