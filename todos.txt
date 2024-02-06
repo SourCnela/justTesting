@@ -4,3 +4,6 @@ sound
 input 
 lang
 ls
+sagus05022924
+Utilizar el eloquent para paint, pasar de paint a code, como mostrar y posible interaccion como simulador juego
+hacer los ejercicios o proyectos del libro de eloquent
